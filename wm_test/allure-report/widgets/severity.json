@@ -1,0 +1,161 @@
+[ {
+  "uid" : "4be1458d118bf5c3",
+  "name" : "test_queryHotelCheckInRecordList",
+  "time" : {
+    "start" : 1591176123027,
+    "stop" : 1591176123365,
+    "duration" : 338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cb672f632f12f40",
+  "name" : "test_queryOrderListToB",
+  "time" : {
+    "start" : 1591176129554,
+    "stop" : 1591176130145,
+    "duration" : 591
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e02dd899e20c613d",
+  "name" : "test_getListStatus_00001",
+  "time" : {
+    "start" : 1591176130148,
+    "stop" : 1591176133702,
+    "duration" : 3554
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6773066dd329f1a6",
+  "name" : "test_queryGoodsOrderList",
+  "time" : {
+    "start" : 1591176123368,
+    "stop" : 1591176124679,
+    "duration" : 1311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33292a05933e1913",
+  "name" : "test_listBookRecord",
+  "time" : {
+    "start" : 1591176125011,
+    "stop" : 1591176125519,
+    "duration" : 508
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5f6ba96c65deb93",
+  "name" : "test_listCanteenOrder",
+  "time" : {
+    "start" : 1591176125523,
+    "stop" : 1591176128696,
+    "duration" : 3173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e0b49fcb89269b5",
+  "name" : "test_queryHotelBookOrderList_00001",
+  "time" : {
+    "start" : 1591176122601,
+    "stop" : 1591176122808,
+    "duration" : 207
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6df3338cd3f6b6cd",
+  "name" : "test_queryHotelBookOrderList_00002",
+  "time" : {
+    "start" : 1591176122812,
+    "stop" : 1591176123023,
+    "duration" : 211
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "662fa458e576d76f",
+  "name" : "test_queryMemberCardOrderList",
+  "time" : {
+    "start" : 1591176128699,
+    "stop" : 1591176129092,
+    "duration" : 393
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f8ef12670d776f0",
+  "name" : "test_getRoomTypeList_00001",
+  "time" : {
+    "start" : 1591176133705,
+    "stop" : 1591176133896,
+    "duration" : 191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff03dc8edba38ee4",
+  "name" : "test_getAfterSaleSetting",
+  "time" : {
+    "start" : 1591176129201,
+    "stop" : 1591176129337,
+    "duration" : 136
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7d54e7edfcdaee0",
+  "name" : "test_getVericationLogList",
+  "time" : {
+    "start" : 1591176124684,
+    "stop" : 1591176125007,
+    "duration" : 323
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "33652c4540c16a78",
+  "name" : "test_getRefundOrderList",
+  "time" : {
+    "start" : 1591176129096,
+    "stop" : 1591176129197,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd8e20d432731da7",
+  "name" : "test_addOrUpdateAfterSaleSetting",
+  "time" : {
+    "start" : 1591176129341,
+    "stop" : 1591176129456,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b969d8a77c0a8e89",
+  "name" : "test_getListType_00001",
+  "time" : {
+    "start" : 1591176133899,
+    "stop" : 1591176135145,
+    "duration" : 1246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b0f7db5335b0698c",
+  "name" : "test_getRefundPledgeOrderList",
+  "time" : {
+    "start" : 1591176129459,
+    "stop" : 1591176129550,
+    "duration" : 91
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

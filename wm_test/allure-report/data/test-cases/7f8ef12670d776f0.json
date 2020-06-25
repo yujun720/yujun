@@ -1,0 +1,168 @@
+{
+  "uid" : "7f8ef12670d776f0",
+  "name" : "test_getRoomTypeList_00001",
+  "fullName" : "case.test_setting.Test_order#test_getRoomTypeList_00001",
+  "historyId" : "ae4d2a212fb2a4738488f7eb684a0f75",
+  "time" : {
+    "start" : 1591176133705,
+    "stop" : 1591176133896,
+    "duration" : 191
+  },
+  "description" : "test_getRoomTypeList_00001",
+  "descriptionHtml" : "<p>test_getRoomTypeList_00001</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1591176133705,
+      "stop" : 1591176133705,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_setting"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "10828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_setting"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ec1a19b36f5c7618",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591175949252,
+        "stop" : 1591175949331,
+        "duration" : 79
+      }
+    }, {
+      "uid" : "31e8c2b6f4f05dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591174777612,
+        "stop" : 1591174777751,
+        "duration" : 139
+      }
+    }, {
+      "uid" : "56c6ce0905c4bc33",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170939311,
+        "stop" : 1591170939422,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "e214e8646ed9818c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170636309,
+        "stop" : 1591170636393,
+        "duration" : 84
+      }
+    }, {
+      "uid" : "1d5a22cfc1eb5872",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170415946,
+        "stop" : 1591170416029,
+        "duration" : 83
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "3d9e748ffaf2d2bf",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/114/allure/#testresult/3d9e748ffaf2d2bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591175949252,
+          "stop" : 1591175949331,
+          "duration" : 79
+        }
+      }, {
+        "uid" : "685887d99fb1db4d",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/113/allure/#testresult/685887d99fb1db4d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591174777612,
+          "stop" : 1591174777751,
+          "duration" : 139
+        }
+      }, {
+        "uid" : "f791b370419dedd4",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/112/allure/#testresult/f791b370419dedd4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170939311,
+          "stop" : 1591170939422,
+          "duration" : 111
+        }
+      }, {
+        "uid" : "12d37649d329a857",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/111/allure/#testresult/12d37649d329a857",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170636309,
+          "stop" : 1591170636393,
+          "duration" : 84
+        }
+      }, {
+        "uid" : "fc0d39b1e7992ec9",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/110/allure/#testresult/fc0d39b1e7992ec9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170415946,
+          "stop" : 1591170416029,
+          "duration" : 83
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "7f8ef12670d776f0.json",
+  "parameterValues" : [ ]
+}

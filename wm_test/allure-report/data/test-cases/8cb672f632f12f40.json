@@ -1,0 +1,166 @@
+{
+  "uid" : "8cb672f632f12f40",
+  "name" : "test_queryOrderListToB",
+  "fullName" : "case.test_order.Test_order#test_queryOrderListToB",
+  "historyId" : "3fdd93497ff1b851496b661bd47caac5",
+  "time" : {
+    "start" : 1591176129554,
+    "stop" : 1591176130145,
+    "duration" : 591
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1591176129554,
+      "stop" : 1591176129554,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "10828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "65a76473ddc3e352",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591175947433,
+        "stop" : 1591175948280,
+        "duration" : 847
+      }
+    }, {
+      "uid" : "533c51bf14bd4766",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591174776176,
+        "stop" : 1591174776568,
+        "duration" : 392
+      }
+    }, {
+      "uid" : "977d75bbca2c1de7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170937903,
+        "stop" : 1591170938261,
+        "duration" : 358
+      }
+    }, {
+      "uid" : "f41fc9333d18eeac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170634900,
+        "stop" : 1591170635263,
+        "duration" : 363
+      }
+    }, {
+      "uid" : "e0f7e83eef974831",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170414498,
+        "stop" : 1591170414939,
+        "duration" : 441
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 2,
+        "broken" : 2,
+        "skipped" : 0,
+        "passed" : 36,
+        "unknown" : 0,
+        "total" : 40
+      },
+      "items" : [ {
+        "uid" : "f9282cd3952ccc57",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/114/allure/#testresult/f9282cd3952ccc57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591175947433,
+          "stop" : 1591175948280,
+          "duration" : 847
+        }
+      }, {
+        "uid" : "a94aadfbdaf3d4c0",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/113/allure/#testresult/a94aadfbdaf3d4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591174776176,
+          "stop" : 1591174776568,
+          "duration" : 392
+        }
+      }, {
+        "uid" : "aecffa329bf9d298",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/112/allure/#testresult/aecffa329bf9d298",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170937903,
+          "stop" : 1591170938261,
+          "duration" : 358
+        }
+      }, {
+        "uid" : "ae4039530fde9fa1",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/111/allure/#testresult/ae4039530fde9fa1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170634900,
+          "stop" : 1591170635263,
+          "duration" : 363
+        }
+      }, {
+        "uid" : "887ca969ac0df1b5",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/110/allure/#testresult/887ca969ac0df1b5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170414498,
+          "stop" : 1591170414939,
+          "duration" : 441
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "8cb672f632f12f40.json",
+  "parameterValues" : [ ]
+}

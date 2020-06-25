@@ -1,0 +1,217 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "test_order",
+      "children" : [ {
+        "name" : "Test_order",
+        "children" : [ {
+          "name" : "test_queryHotelBookOrderList_00001",
+          "uid" : "2e0b49fcb89269b5",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176122601,
+            "stop" : 1591176122808,
+            "duration" : 207
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_queryHotelBookOrderList_00002",
+          "uid" : "6df3338cd3f6b6cd",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176122812,
+            "stop" : 1591176123023,
+            "duration" : 211
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_queryHotelCheckInRecordList",
+          "uid" : "4be1458d118bf5c3",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176123027,
+            "stop" : 1591176123365,
+            "duration" : 338
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_queryGoodsOrderList",
+          "uid" : "6773066dd329f1a6",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176123368,
+            "stop" : 1591176124679,
+            "duration" : 1311
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getVericationLogList",
+          "uid" : "d7d54e7edfcdaee0",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176124684,
+            "stop" : 1591176125007,
+            "duration" : 323
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_listBookRecord",
+          "uid" : "33292a05933e1913",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176125011,
+            "stop" : 1591176125519,
+            "duration" : 508
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_listCanteenOrder",
+          "uid" : "a5f6ba96c65deb93",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176125523,
+            "stop" : 1591176128696,
+            "duration" : 3173
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_queryMemberCardOrderList",
+          "uid" : "662fa458e576d76f",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176128699,
+            "stop" : 1591176129092,
+            "duration" : 393
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getRefundOrderList",
+          "uid" : "33652c4540c16a78",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176129096,
+            "stop" : 1591176129197,
+            "duration" : 101
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getAfterSaleSetting",
+          "uid" : "ff03dc8edba38ee4",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176129201,
+            "stop" : 1591176129337,
+            "duration" : 136
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_addOrUpdateAfterSaleSetting",
+          "uid" : "cd8e20d432731da7",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176129341,
+            "stop" : 1591176129456,
+            "duration" : 115
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getRefundPledgeOrderList",
+          "uid" : "b0f7db5335b0698c",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176129459,
+            "stop" : 1591176129550,
+            "duration" : 91
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_queryOrderListToB",
+          "uid" : "8cb672f632f12f40",
+          "parentUid" : "7b2ef10fe7f66fc3a797f129723e821c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176129554,
+            "stop" : 1591176130145,
+            "duration" : 591
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7b2ef10fe7f66fc3a797f129723e821c"
+      } ],
+      "uid" : "3be50c73c4cfbd6c71668ac928c1ee75"
+    }, {
+      "name" : "test_setting",
+      "children" : [ {
+        "name" : "Test_order",
+        "children" : [ {
+          "name" : "test_getListStatus_00001",
+          "uid" : "e02dd899e20c613d",
+          "parentUid" : "b1885b7c2284563036e5bfc12691b5c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176130148,
+            "stop" : 1591176133702,
+            "duration" : 3554
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getRoomTypeList_00001",
+          "uid" : "7f8ef12670d776f0",
+          "parentUid" : "b1885b7c2284563036e5bfc12691b5c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176133705,
+            "stop" : 1591176133896,
+            "duration" : 191
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_getListType_00001",
+          "uid" : "b969d8a77c0a8e89",
+          "parentUid" : "b1885b7c2284563036e5bfc12691b5c4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1591176133899,
+            "stop" : 1591176135145,
+            "duration" : 1246
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b1885b7c2284563036e5bfc12691b5c4"
+      } ],
+      "uid" : "039112ae3328b47bc8f1a90b92fcaf1d"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

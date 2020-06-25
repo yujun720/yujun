@@ -1,0 +1,166 @@
+{
+  "uid" : "4be1458d118bf5c3",
+  "name" : "test_queryHotelCheckInRecordList",
+  "fullName" : "case.test_order.Test_order#test_queryHotelCheckInRecordList",
+  "historyId" : "1aebf8fe42060fc9c0d6a0374230994b",
+  "time" : {
+    "start" : 1591176123027,
+    "stop" : 1591176123365,
+    "duration" : 338
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1591176123027,
+      "stop" : 1591176123027,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "10828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "7fa34f40ff5db31c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591175943507,
+        "stop" : 1591175943820,
+        "duration" : 313
+      }
+    }, {
+      "uid" : "5d10086c6cdb5751",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591174770049,
+        "stop" : 1591174770371,
+        "duration" : 322
+      }
+    }, {
+      "uid" : "dc71f275dfbb1ea1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170933628,
+        "stop" : 1591170934033,
+        "duration" : 405
+      }
+    }, {
+      "uid" : "906f766e3ebf97bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170631058,
+        "stop" : 1591170631390,
+        "duration" : 332
+      }
+    }, {
+      "uid" : "db4ab1f92b389622",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170410622,
+        "stop" : 1591170411028,
+        "duration" : 406
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 6,
+        "skipped" : 0,
+        "passed" : 50,
+        "unknown" : 0,
+        "total" : 57
+      },
+      "items" : [ {
+        "uid" : "17f069b6425bcde",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/114/allure/#testresult/17f069b6425bcde",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591175943507,
+          "stop" : 1591175943820,
+          "duration" : 313
+        }
+      }, {
+        "uid" : "e1e73c026ac9c7b0",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/113/allure/#testresult/e1e73c026ac9c7b0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591174770049,
+          "stop" : 1591174770371,
+          "duration" : 322
+        }
+      }, {
+        "uid" : "bb1a5305332a988d",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/112/allure/#testresult/bb1a5305332a988d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170933628,
+          "stop" : 1591170934033,
+          "duration" : 405
+        }
+      }, {
+        "uid" : "c96af12960ffafac",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/111/allure/#testresult/c96af12960ffafac",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170631058,
+          "stop" : 1591170631390,
+          "duration" : 332
+        }
+      }, {
+        "uid" : "a691dcba2811a411",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/110/allure/#testresult/a691dcba2811a411",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170410622,
+          "stop" : 1591170411028,
+          "duration" : 406
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "4be1458d118bf5c3.json",
+  "parameterValues" : [ ]
+}

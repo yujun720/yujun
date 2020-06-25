@@ -1,0 +1,174 @@
+{
+  "uid" : "33652c4540c16a78",
+  "name" : "test_getRefundOrderList",
+  "fullName" : "case.test_order.Test_order#test_getRefundOrderList",
+  "historyId" : "86d03da0775f51a340a66d8ca879ec48",
+  "time" : {
+    "start" : 1591176129096,
+    "stop" : 1591176129197,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "__pytest_repeat_step_number",
+    "time" : {
+      "start" : 1591176129095,
+      "stop" : 1591176129095,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "10828-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2349db790181af87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591175946712,
+        "stop" : 1591175946872,
+        "duration" : 160
+      }
+    }, {
+      "uid" : "7be5ba8fea26a4be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591174775360,
+        "stop" : 1591174775590,
+        "duration" : 230
+      }
+    }, {
+      "uid" : "4ca3bdbd51741f55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170937408,
+        "stop" : 1591170937509,
+        "duration" : 101
+      }
+    }, {
+      "uid" : "bc0a7a596fa83f42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170634501,
+        "stop" : 1591170634621,
+        "duration" : 120
+      }
+    }, {
+      "uid" : "5c99b74beb4a46ca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1591170414034,
+        "stop" : 1591170414145,
+        "duration" : 111
+      }
+    }, {
+      "uid" : "870073063ff1aa3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590634589457,
+        "stop" : 1590634589571,
+        "duration" : 114
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 1,
+        "broken" : 6,
+        "skipped" : 0,
+        "passed" : 46,
+        "unknown" : 0,
+        "total" : 53
+      },
+      "items" : [ {
+        "uid" : "6cd6122db0dd7088",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/114/allure/#testresult/6cd6122db0dd7088",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591175946712,
+          "stop" : 1591175946872,
+          "duration" : 160
+        }
+      }, {
+        "uid" : "c93f6b48c5735b3f",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/113/allure/#testresult/c93f6b48c5735b3f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591174775360,
+          "stop" : 1591174775590,
+          "duration" : 230
+        }
+      }, {
+        "uid" : "b1a80a4869883633",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/112/allure/#testresult/b1a80a4869883633",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170937408,
+          "stop" : 1591170937509,
+          "duration" : 101
+        }
+      }, {
+        "uid" : "ad1071f4464e46c7",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/111/allure/#testresult/ad1071f4464e46c7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170634501,
+          "stop" : 1591170634621,
+          "duration" : 120
+        }
+      }, {
+        "uid" : "8283d22dd39c4c3b",
+        "reportUrl" : "http://172.19.40.44:9090/job/wm_test/110/allure/#testresult/8283d22dd39c4c3b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591170414034,
+          "stop" : 1591170414145,
+          "duration" : 111
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "33652c4540c16a78.json",
+  "parameterValues" : [ ]
+}

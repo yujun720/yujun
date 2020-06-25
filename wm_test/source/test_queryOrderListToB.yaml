@@ -1,0 +1,9 @@
+data:
+    pageIndex: 1
+    pageSize: 10
+    searchStr: ""
+    beginTime: "2020-03-27T16:00:00.000Z"
+    endTime: "2020-04-28T15:59:59.999Z"
+    orderStatus: ""
+pid: 14573
+storeId: 24525573

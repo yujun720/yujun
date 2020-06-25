@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://172.19.40.44:9090/",
+  "buildOrder" : 115,
+  "buildName" : "we_test #115",
+  "buildUrl" : "http://172.19.40.44:9090/job/wm_test/115/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://172.19.40.44:9090/job/wm_test/115/allure"
+} ]

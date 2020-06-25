@@ -1,0 +1,53 @@
+{
+  "uid" : "88ae3e168f87ac9f",
+  "name" : "test_listCanteenOrder",
+  "fullName" : "case.test_order.Test_order#test_listCanteenOrder",
+  "historyId" : "3e9ac2aad780a93458988a0c2c399dde",
+  "time" : {
+    "start" : 1590457346978,
+    "stop" : 1590457347442,
+    "duration" : 464
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "12932-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88ae3e168f87ac9f.json",
+  "parameterValues" : [ ]
+}

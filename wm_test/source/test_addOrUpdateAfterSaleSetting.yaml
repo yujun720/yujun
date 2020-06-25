@@ -1,0 +1,27 @@
+data:
+    goodsSupport: true
+    goodsLimit: 1
+    appointSupport: true
+    appointLimit: 0
+    type: 1
+    bookSupport: true
+    bookLimit: 0
+    beforeConfirmLimitSupport: true
+    beforeConfirmLimit: 1
+    supportAfterSaleType: 3
+    autoRefundLimit: 1
+    autoRefusedAfterSaleLimit: 2
+    returnGoodsAutoRefundLimit: 3
+    provinceCode: "110000"
+    provinceName: "北京"
+    cityCode: "110100"
+    cityName: "北京市"
+    areaCode: "110101"
+    areaName: "东城区"
+    address: "上海微盟大厦"
+    consignee: "张锐"
+    contactInformation: "345345"
+    supportAfterSaleTypeArr: [1, 2]
+    pid: "14573"
+pid: 14573
+storeId: 24525573

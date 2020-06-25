@@ -1,0 +1,53 @@
+{
+  "uid" : "870073063ff1aa3e",
+  "name" : "test_getRefundOrderList",
+  "fullName" : "case.test_order.Test_order#test_getRefundOrderList",
+  "historyId" : "86d03da0775f51a340a66d8ca879ec48",
+  "time" : {
+    "start" : 1590634589457,
+    "stop" : 1590634589571,
+    "duration" : 114
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "test_order"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_order"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M1VNJ55S"
+  }, {
+    "name" : "thread",
+    "value" : "14992-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.test_order"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "870073063ff1aa3e.json",
+  "parameterValues" : [ ]
+}
